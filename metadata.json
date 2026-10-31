@@ -1,0 +1,6 @@
+{
+  "name": "Hearth - Premium AI Workspace",
+  "description": "A quiet workspace for thinking with AI. Ask first. Answer once.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
